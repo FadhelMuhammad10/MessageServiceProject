@@ -1,0 +1,8 @@
+required on project:
+	TOKEN_WHATSAPP = ""
+	USERKEY = ""
+	PASSKEY = ""
+	IMAP_USER = ""
+	IMAP_PASSWORD = ""
+	IMAP_SERVER = ""
+	SMTP_ADDRESS = ""
